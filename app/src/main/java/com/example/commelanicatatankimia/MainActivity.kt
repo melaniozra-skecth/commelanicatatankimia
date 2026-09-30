@@ -1,9 +1,9 @@
-package com.example.melani.catatankimia
+package com.example.commelanicatatankimia
 
-impor android.os.Bundle
+import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
-import androidx.appcompat.app.AppCompas
+import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
 
